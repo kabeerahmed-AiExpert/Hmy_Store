@@ -6,8 +6,8 @@
 const CONFIG = {
   // Supabase
   supabase: {
-    url: 'https://jlplcmgeezkmkylbmfyc.supabase.co',
-    anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpscGxjbWdlZXprbWt5bGJtZnljIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODc3NDQzNTIsImV4cCI6MjEwMzMyMDM1Mn0.jmwPpzRcShYxjjebX5iB1t0HS4NsgF_yh8_U1_9qH7M'
+    url: 'sb_publishable_2dC2Dm7AiazmV25IZ1M98w_20ESR6q',
+    anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVndWhpdHRieWJubmR1eHF0cnhjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI5OTEyMzYsImV4cCI6MjEwODU2NzIzNn0.YOq9Q-_jz7efk2PHPeEyhiKnIQ4-2lGbLhjGRJAbGrc'
   },
 
   // WhatsApp (owner's number — international format without +)
