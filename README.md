@@ -2,7 +2,7 @@
 
 > A premium, multi-page e-commerce storefront built with pure HTML, CSS, and JavaScript. Features WhatsApp-based checkout, Supabase-powered order management, and a full admin dashboard.
 
-🌐 **Live Site**: [https://salarsain.github.io/HMY-Store/](https://salarsain.github.io/HMY-Store/)
+🌐 **Live Site**: https://kabeerahmed-aiexpert.github.io/Hmy_Store/
 
 ---
 
